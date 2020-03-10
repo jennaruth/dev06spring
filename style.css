@@ -1,0 +1,53 @@
+body {
+  background-color: #ADD8E6;
+}
+.bg {
+  background-color: #ADD8E6;
+}
+.text {
+  font-size: 24px;
+  color: #FAFAFA;
+}
+.input-output {
+  border: dotted;
+  border-color: #00000;
+  background-color: #DFECBF;
+  position: absolute;
+  top: 290px;
+  right: 29px;
+  left: 600px;
+}
+
+.outputBox {
+  width: 300px;
+}
+
+h4 {
+  font-size: 35px;
+  position: relative;
+  left: 300px;
+}
+
+.inputBox {
+  width: 200px;
+  position: relative;
+  left: 100px;
+}
+
+.button {
+  width: 200px;
+  position: relative;
+  left: 200px;
+}
+
+.font {
+  font-family: sans-serif;
+}
+
+.footer {
+  position: fixed;
+  top: 500px;
+  padding: 15px;
+  font-size: 20px;
+  color: #1A237E !important;
+}
